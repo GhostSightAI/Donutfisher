@@ -55,7 +55,7 @@
 
 ## ⚠️ Important Notes
 - 🐛 This is a beta release - expect some bugs
-- 📢 Report any issues in [#bug-reports](https://github.com/your-repo/discussions/categories/bug-reports)
+- 📢 Report any issues in [#bug-reports](https://github.com/GhostSightAI/Donutfisher/issues)
 - 🔄 Features may change based on user feedback
 - ⚡ **Use at your own risk**
 
